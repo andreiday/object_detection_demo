@@ -1,7 +1,7 @@
 <annotation>
-	<folder>dataset_signs_ryg_trfc</folder>
+	<folder>train</folder>
 	<filename>training_pedestrians_025.png</filename>
-	<path>D:\Projects\BFMC\NN\dataset_signs_ryg_trfc\training_pedestrians_025.png</path>
+	<path>D:\Projects\object_detection_demo\data\images\train\training_pedestrians_025.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>pedestrian</name>
+		<name>pedestrians</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
