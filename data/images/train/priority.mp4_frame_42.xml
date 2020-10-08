@@ -1,7 +1,7 @@
 <annotation>
-	<folder>priority</folder>
+	<folder>train</folder>
 	<filename>priority.mp4_frame_42.png</filename>
-	<path>D:\Projects\BFMC\NN\frame_label\sign_frames\priority\priority.mp4_frame_42.png</path>
+	<path>D:\Projects\object_detection_demo\data\images\train\priority.mp4_frame_42.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>504</xmin>
-			<ymin>96</ymin>
-			<xmax>553</xmax>
-			<ymax>148</ymax>
+			<xmin>508</xmin>
+			<ymin>104</ymin>
+			<xmax>549</xmax>
+			<ymax>144</ymax>
 		</bndbox>
 	</object>
 </annotation>

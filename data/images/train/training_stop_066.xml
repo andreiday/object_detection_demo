@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_signs_ryg_trfc</folder>
+	<filename>training_stop_066.png</filename>
+	<path>D:\Projects\BFMC\NN\dataset_signs_ryg_trfc\training_stop_066.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>123</ymin>
+			<xmax>754</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_signs_ryg_trfc</folder>
+	<filename>training_pedestrians_017.png</filename>
+	<path>D:\Projects\BFMC\NN\dataset_signs_ryg_trfc\training_pedestrians_017.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>121</ymin>
+			<xmax>698</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

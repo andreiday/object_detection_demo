@@ -1,7 +1,7 @@
 <annotation>
-	<folder>park</folder>
+	<folder>train</folder>
 	<filename>park.mp4_frame_46.png</filename>
-	<path>D:\Projects\BFMC\NN\frame_label\sign_frames\park\park.mp4_frame_46.png</path>
+	<path>D:\Projects\object_detection_demo\data\images\train\park.mp4_frame_46.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>445</xmin>
-			<ymin>77</ymin>
-			<xmax>461</xmax>
-			<ymax>91</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>park</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>572</xmin>
+			<xmin>574</xmin>
 			<ymin>95</ymin>
-			<xmax>617</xmax>
-			<ymax>137</ymax>
+			<xmax>614</xmax>
+			<ymax>138</ymax>
 		</bndbox>
 	</object>
 </annotation>
