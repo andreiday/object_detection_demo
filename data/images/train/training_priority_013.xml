@@ -1,7 +1,7 @@
 <annotation>
-	<folder>dataset_signs_ryg_trfc</folder>
+	<folder>train</folder>
 	<filename>training_priority_013.png</filename>
-	<path>D:\Projects\BFMC\NN\dataset_signs_ryg_trfc\training_priority_013.png</path>
+	<path>D:\Projects\object_detection_demo\data\images\train\training_priority_013.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>548</xmin>
-			<ymin>57</ymin>
-			<xmax>591</xmax>
-			<ymax>104</ymax>
+			<ymin>68</ymin>
+			<xmax>588</xmax>
+			<ymax>103</ymax>
 		</bndbox>
 	</object>
 </annotation>

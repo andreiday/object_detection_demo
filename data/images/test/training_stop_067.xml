@@ -1,7 +1,7 @@
 <annotation>
-	<folder>dataset_signs_ryg_trfc</folder>
+	<folder>test</folder>
 	<filename>training_stop_067.png</filename>
-	<path>D:\Projects\BFMC\NN\dataset_signs_ryg_trfc\training_stop_067.png</path>
+	<path>D:\Projects\object_detection_demo\data\images\test\training_stop_067.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>676</xmin>
-			<ymin>123</ymin>
-			<xmax>754</xmax>
-			<ymax>198</ymax>
+			<xmin>679</xmin>
+			<ymin>127</ymin>
+			<xmax>749</xmax>
+			<ymax>195</ymax>
 		</bndbox>
 	</object>
 </annotation>

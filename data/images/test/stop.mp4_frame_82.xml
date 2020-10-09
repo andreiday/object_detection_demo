@@ -1,7 +1,7 @@
 <annotation>
-	<folder>stop</folder>
+	<folder>test</folder>
 	<filename>stop.mp4_frame_82.png</filename>
-	<path>D:\Projects\BFMC\NN\frame_label\sign_frames\stop\stop.mp4_frame_82.png</path>
+	<path>D:\Projects\object_detection_demo\data\images\test\stop.mp4_frame_82.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>521</xmin>
-			<ymin>109</ymin>
-			<xmax>607</xmax>
-			<ymax>198</ymax>
+			<xmin>519</xmin>
+			<ymin>113</ymin>
+			<xmax>604</xmax>
+			<ymax>194</ymax>
 		</bndbox>
 	</object>
 </annotation>
