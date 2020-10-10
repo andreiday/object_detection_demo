@@ -15,7 +15,7 @@
 		<name>stop</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>675</xmin>
 			<ymin>130</ymin>

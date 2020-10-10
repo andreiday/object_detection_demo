@@ -1,7 +1,7 @@
 <annotation>
-	<folder>dataset_signs_ryg_trfc</folder>
+	<folder>train</folder>
 	<filename>traffic_light_red_016.png</filename>
-	<path>D:\Projects\BFMC\NN\dataset_signs_ryg_trfc\traffic_light_red_016.png</path>
+	<path>D:\Projects\object_detection_demo\data\images\train\traffic_light_red_016.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -15,10 +15,10 @@
 		<name>traffic_red</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>624</xmin>
-			<ymin>81</ymin>
+			<xmin>631</xmin>
+			<ymin>86</ymin>
 			<xmax>701</xmax>
 			<ymax>231</ymax>
 		</bndbox>

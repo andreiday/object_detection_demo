@@ -15,12 +15,12 @@
 		<name>stop</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>702</xmin>
-			<ymin>130</ymin>
+			<xmin>698</xmin>
+			<ymin>125</ymin>
 			<xmax>782</xmax>
-			<ymax>202</ymax>
+			<ymax>206</ymax>
 		</bndbox>
 	</object>
 </annotation>

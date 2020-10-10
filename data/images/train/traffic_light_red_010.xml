@@ -15,7 +15,7 @@
 		<name>traffic_red</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>636</xmin>
 			<ymin>85</ymin>
